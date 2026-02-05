@@ -23,4 +23,4 @@ Full Stack Java / Angular Developer | Microservices & Cloud Enthusiast
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-chekou-kor%C3%A9-201385210/)
